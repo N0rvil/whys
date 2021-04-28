@@ -1,0 +1,40 @@
+.article {
+    margin: 5rem auto 0 auto;
+    width: 40vw;
+}
+
+.article__about {
+    background-color: #00e431;
+    padding: 1rem;
+    display: flex;
+    align-items: center;
+    border-top-left-radius: 2rem;
+    border-top-right-radius: 2rem;
+}
+
+.article__profile-photo {
+    height: 6rem;
+}
+
+.article__box {
+    margin-left: 2rem;
+}
+
+.article__name {
+    font-size: 2.5rem;
+}
+
+.article__date {
+    font-size: 1.5rem;
+}
+
+.article__text {
+    font-size: 1.4rem;
+    padding: 1rem;
+    border: 2px solid #00e431;
+    border-bottom-left-radius: 2rem;
+    border-bottom-right-radius: 2rem;
+}
+
+
+

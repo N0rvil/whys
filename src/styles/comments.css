@@ -1,0 +1,49 @@
+.comments {
+    margin: 0 auto 0 auto;
+    width: 30vw;
+}
+
+.comments__list {
+    list-style: none;
+}
+
+.comments__item {
+    margin-top: 1rem;
+    min-width: 30rem;
+}
+
+.comments__info {
+    display: flex;
+    align-items: top;
+    text-align: left;
+    
+    border-radius: 1rem;
+}
+
+.comments__box {
+    background-color: #AFB0B2;
+    padding: 0.5rem;
+    margin-left: 1rem;
+    border-radius: 1rem;
+}
+
+.comments__item-text {
+    word-wrap: break-word;
+    max-width: 25vw;
+    font-size: 1.2rem;
+}
+
+.comments__item-name {
+    font-size: 1.6rem;
+}
+
+.comments__profile-photo {
+    height: 4rem;
+    padding-right: 0.5rem;
+    background-color: #fff;
+}
+
+.commetns__item-date {
+    margin-left: 5rem;
+    font-size: 1.2rem;
+}
